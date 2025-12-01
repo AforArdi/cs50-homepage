@@ -1,0 +1,39 @@
+HTML Tags Used:
+1. <html>
+2. <head>
+3. <body>
+4. <title>
+5. <meta>
+6. <link>
+7. <script>
+8. <nav>
+9. <div>
+10. <h1>
+11. <p>
+12. <a>
+13. <img>
+14. <ul>
+15. <li>
+16. <button>
+17. <main>
+18. <header>
+19. <section>
+20. <table>
+
+CSS Properties Used:
+1. background-color
+2. color
+3. padding
+4. text-align
+5. font-size
+6. border
+7. border-radius
+8. margin
+9. box-shadow
+10. width
+
+JavaScript Usage:
+I used JavaScript to add an alert to a button on the homepage. When the user clicks the "Click me for a surprise!" button, an alert box appears with the message "Thanks for visiting!".
+
+Bootstrap Usage:
+I used Bootstrap to create a responsive navigation bar, a jumbotron for the hero section on the homepage, and to style buttons and forms. I also used Bootstrap's grid system to structure the content on the pages.
